@@ -1,0 +1,1416 @@
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_close.png
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_loading.png
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_n.png
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_ne.png
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_e.png
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_se.png
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_s.png
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_sw.png
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_w.png
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_nw.png
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_nav_left.png
+2011/08/16 08:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_nav_right.png
+2011/08/16 08:27:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_close.png
+2011/08/16 08:27:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_loading.png
+2011/08/16 08:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_n.png
+2011/08/16 08:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_ne.png
+2011/08/16 08:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_e.png
+2011/08/16 08:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_se.png
+2011/08/16 08:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_s.png
+2011/08/16 08:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_sw.png
+2011/08/16 08:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_w.png
+2011/08/16 08:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_shadow_nw.png
+2011/08/16 08:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_nav_left.png
+2011/08/16 08:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "fancybox".' in D:\www\yii-root\framework\web\CController.php:477
+Stack trace:
+#0 D:\www\yii-root\framework\web\CController.php(262): CController->missingAction('fancybox')
+#1 D:\www\yii-root\framework\web\CWebApplication.php(277): CController->run('fancybox')
+#2 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/default/fan...')
+#3 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\www\wanmo\index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/wanmo/index.php/gii/default/fancybox/fancy_nav_right.png
+2011/08/16 08:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:28:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:28:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:28:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:28:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:28:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:28:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:28:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:28:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:28:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:28:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:28:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:28:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:28:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:28:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:28:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:28:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:28:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:28:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:28:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:29:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:29:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:29:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:29:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:29:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:29:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:29:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:29:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:29:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:29:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:29:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:29:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:29:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:29:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:29:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:29:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:29:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:29:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:29:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:29:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:29:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:29:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:29:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:29:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:30:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:30:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:30:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:30:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:31:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:31:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:31:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:31:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:31:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:31:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:31:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:31:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:31:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:31:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:31:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:31:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:31:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:31:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:31:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:31:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:31:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:34:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_close.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_close.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_loading.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_loading.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_n.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_n.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_ne.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_ne.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_e.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_e.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_se.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_se.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_s.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_s.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_sw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_sw.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_w.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_w.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_shadow_nw.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_shadow_nw.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_left.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_left.png
+2011/08/16 08:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii/fancybox/fancy_nav_right.png".' in D:\www\yii-root\framework\web\CWebApplication.php:281
+Stack trace:
+#0 D:\www\yii-root\framework\web\CWebApplication.php(136): CWebApplication->runController('gii/fancybox/fa...')
+#1 D:\www\yii-root\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\www\wanmo\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/wanmo/index.php/gii/fancybox/fancy_nav_right.png
